@@ -1,4 +1,4 @@
-# Object Marking & K-means Clustering for Multi-Detection for cyclist data
+# Object Marking & K-means Clustering for Multi-Detection for Cyclist Data
 
 ## Overview
 This project involves processing a dataset of cyclist-related images. It covers the steps of image format conversion, object marking (bounding boxes around cycle and person), clustering, and storing the results for further analysis. The aim is to analyze the distribution of objects using KMeans clustering and generate a structured dataset for future insights.
